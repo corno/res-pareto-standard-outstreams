@@ -1,0 +1,27 @@
+{
+  "author": "Corno",
+  "bugs": {
+    "url": "https://github.com/corno/pareto/issues"
+  },
+  "description": "",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/corno/pareto#readme",
+  "license": "ISC",
+  "main": "./dist",
+  "types": "./dist",
+  "name": "res-pareto-standard-outstream",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corno/res-pareto-standard-outstreams.git"
+  },
+  "dependencies": {
+    "pareto-core-internals": "^0.11.0"
+  },
+  "version": "0.8.0",
+  "devDependencies": {
+    "@types/node": "^18.11.13"
+  },
+  "content-fingerprint": "564f37eb73c47508208f070415b87149c555cbc4"
+}
